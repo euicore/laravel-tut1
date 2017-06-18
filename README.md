@@ -1,2 +1,3 @@
 # laravel-tut1
-First Laravel tutorial repository
+
+Hi fellow humans! ;)
